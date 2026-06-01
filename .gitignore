@@ -1,0 +1,10 @@
+*.key
+*.pem
+.env
+.env.*
+.secrets/
+secrets/
+tmp/
+*.log
+configs/wireguard/wg0.conf
+configs/ssh/sshd_config

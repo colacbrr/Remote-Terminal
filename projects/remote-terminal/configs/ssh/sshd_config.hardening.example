@@ -1,0 +1,9 @@
+# Apply these settings carefully after confirming SSH key login works.
+
+PasswordAuthentication no
+KbdInteractiveAuthentication no
+PermitRootLogin no
+PubkeyAuthentication yes
+ChallengeResponseAuthentication no
+X11Forwarding no
+AllowAgentForwarding no
