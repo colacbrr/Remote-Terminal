@@ -30,11 +30,6 @@ The repository is split into two related workspaces:
 - providing a reproducible starting point for personal remote access
 - recording a conservative unattended-laptop workflow
 
-## What This Repo Is Not For
-
-- storing real VPN or SSH keys
-- storing live IP addresses, usernames, or router-specific secrets
-- acting as a drop-in production configuration without review
 
 ## Structure
 
