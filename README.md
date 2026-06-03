@@ -7,7 +7,7 @@ state.
 The repository is split into two related workspaces:
 
 1. [Remote Terminal](projects/remote-terminal/README.md)
-   Practical Tailscale/SSH/`tmux` guidance for establishing secure remote shell
+   Practical `Tailscale`/`SSH`/`tmux` guidance for establishing secure remote shell
    access without exposing SSH directly to the public internet.
 2. [Server Mode](projects/server-mode/documentation.md)
    A reversible laptop workflow for ensuring Tailscale and SSH are running,
