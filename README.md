@@ -14,6 +14,8 @@ The repository is split into two related workspaces:
    applying a temporary logind suspend override, inspecting saved state, and
    restoring the machine later.
 
+Portfolio case study: https://cristiancolacel.com/projects/remote-terminal
+
 ## Start Here
 
 1. Read [projects/remote-terminal/README.md](projects/remote-terminal/README.md)
